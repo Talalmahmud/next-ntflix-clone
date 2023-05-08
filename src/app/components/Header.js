@@ -10,7 +10,7 @@ const Header = () => {
       <div className={styles.main_header}>
         <div className={styles.navbar_brand}>
           <Link href={"/"}>
-            <Image src={"/netflix-logo.png"} height={40} width={150} alt="" />
+            <Image src={"/netflix-logo-1.png"} height={40} width={150} alt="" />
           </Link>
         </div>
         <Nav />
